@@ -1,8 +1,7 @@
-# React + Vite
+#Random gif generator 
+technology used
+- MERN
+- Giphy API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <br>
+![image](https://github.com/anandkishorgupta/gif-generator/assets/85511831/59a7dd7f-4a5d-49c4-9207-922d2e080f1a)
